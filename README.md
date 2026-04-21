@@ -32,3 +32,5 @@ Automated reconciliation for FMCG companies like Marico.
 2. npm install
 3. npm run dev
 
+### Colab Link
+1. https://colab.research.google.com/drive/1D4ewQc_nxALi8dPNHAazOdxbMHHpAsTD?usp=sharing
