@@ -24,11 +24,11 @@ Automated reconciliation for FMCG companies like Marico.
 ## Run Project
 
 ### Backend
-cd backend
-python app.py
+1. cd backend
+2. python app.py
 
 ### Frontend
-cd frontend
-npm install
-npm run dev
+1. cd frontend
+2. npm install
+3. npm run dev
 
